@@ -1,0 +1,5 @@
+name: 'SparkLearn History'
+type: module
+description: 'Views handler to expose user history in views'
+core: 8.x
+package: 'SparkLearn'
